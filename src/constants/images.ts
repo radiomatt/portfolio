@@ -9,13 +9,13 @@ export const AVATAR: Image = {
 
 export const PROJECTS: Record<string, Image> = {
   WEESH: {
-    src: "projects/weesh_o2cyar",
+    src: "projects/weesh",
     width: 640,
     height: 480,
     alt: "Weesh",
   },
   GIT_EXPO: {
-    src: "projects/gitexpo_mlh8ou",
+    src: "projects/gitexpo",
     width: 640,
     height: 480,
     alt: "Git explorer",
