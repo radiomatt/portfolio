@@ -2,7 +2,8 @@
   & .navigation {
     @apply absolute bottom-0 right-0 top-0 lg:relative;
     @apply flex flex-col justify-start;
-    @apply lg:flex-row lg:items-center lg:justify-end lg:space-x-3;
+    @apply lg:fixed lg:left-1/2 lg:-translate-x-1/2;
+    @apply lg:flex-row lg:items-center lg:justify-center lg:space-x-3;
     @apply border border-gray-800 bg-black bg-opacity-90 lg:border-none lg:bg-transparent lg:bg-opacity-100;
     @apply h-screen w-0 pt-12 lg:h-auto lg:w-fit lg:py-3;
     @apply transition-all duration-500;

@@ -3,6 +3,6 @@
   @apply border-b border-gray-900 filter backdrop-blur-lg;
 
   & .header {
-    @apply mx-auto flex max-w-7xl items-start justify-between px-3 lg:items-center;
+    @apply relative mx-auto flex max-w-7xl items-start justify-between px-3 lg:items-center;
   }
 }
