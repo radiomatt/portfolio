@@ -29,7 +29,7 @@ export function About() {
           <a
             className={styles.link}
             target="_blank"
-            href="https://chess.com/play/radiomatt"
+            href="https://chess.com/play/mattrosewood"
             rel="noreferrer"
           >
             chess
